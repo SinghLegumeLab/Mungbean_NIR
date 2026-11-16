@@ -1,0 +1,3 @@
+These CSV files contain the spectral data for the samples used in "Development of Near-Infrared Calibration Equation for Protein Content Determination in Mungbean".
+It contains unique sample IDs (UniqueID), the seed coat color of the sample (Seed.Coat.Color), and crude protein content of the sample (Crude_Protein_dry_basis). Along with the absorbance values for 950 to 1650 nm in 1 nm increments.
+F_Protein is the spectral data for the flour sample and WS_Protien is the spectral data for the whole seed sample of the corresponding UniqueID.
